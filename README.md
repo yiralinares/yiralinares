@@ -1,20 +1,11 @@
 ### Hi there 👋
 
-My journey as a web developer began with a strong passion for technology and problem-solving.
-I started by learning HTML and CSS, then gradually progressed to JavaScript and other advanced technologies.
-Through constant practice and hands-on experience, I have been able to develop my skills and create stunning websites and web applications.
-Despite the challenges that come with the constantly evolving industry, I am determined to keep learning and improving my craft.
-<!--
-**yiralinares/yiralinares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#I'm Yira! An architecht and real estate marketer transitioning to web development. 
 
-Here are some ideas to get you started:
+⚡My journey began with a strong passion for technology and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently enroll in #100devs bootcamp an Codecademy Full-Stack path.I started by learning **HTML and CSS**, then gradually progressed to **JavaScript** and in a near future **other advanced technologies**!
+
+🔭Through constant practice and hands-on experience, I aim to develop my skills and **create stunning websites and web applications**.
+
+✨Despite the challenges that come with the constantly evolving industry, I am determined to keep learning and improving my craft.

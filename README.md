@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#I'm Yira! An architecht and real estate marketer transitioning to web development. 
+#I'm Yira! An architect and real estate marketer transitioning to web development. 
 
 ⚡My journey began with a strong passion for technology and problem-solving.
 

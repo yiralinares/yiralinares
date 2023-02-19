@@ -2,11 +2,12 @@
 
 #I'm Yira! An architect and real estate marketer transitioning to web development. 
 
-⚡My journey began with a strong passion for technology and problem-solving.
+⚡ My journey began with a strong passion for technology and problem-solving.
 
-🌱 I’m currently enroll in **#100devs bootcamp** and **Codecademy Full-Stack path**.<br>
-I started by learning **HTML and CSS**, then gradually progressed to **JavaScript** and in a near future **other advanced technologies**!
+🌱 I’m currently enroll in **#100devs bootcamp** and **Codecademy Full-Stack path**.
 
-🔭Through constant practice and hands-on experience, I aim to develop my skills and **create stunning websites and web applications**.
+😍 I started by learning **HTML and CSS**, then gradually progressed to **JavaScript** and in a near future **other advanced technologies**!
 
-✨Despite the challenges that come with the constantly evolving industry, I am determined to keep learning and improving my craft.
+🔭 Through constant practice and hands-on experience, I aim to develop my skills and **create stunning websites and web applications**.
+
+✨ Despite the challenges that come with the constantly evolving industry, I am determined to keep learning and improving my craft.

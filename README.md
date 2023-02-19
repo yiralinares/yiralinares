@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My journey as a web developer began with a strong passion for technology and problem-solving.
+I started by learning HTML and CSS, then gradually progressed to JavaScript and other advanced technologies.
+Through constant practice and hands-on experience, I have been able to develop my skills and create stunning websites and web applications.
+Despite the challenges that come with the constantly evolving industry, I am determined to keep learning and improving my craft.
 <!--
 **yiralinares/yiralinares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
